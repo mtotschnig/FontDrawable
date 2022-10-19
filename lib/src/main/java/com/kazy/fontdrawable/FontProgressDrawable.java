@@ -10,7 +10,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.ClipDrawable;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.LayerDrawable;
-import android.support.annotation.ColorInt;
+import androidx.annotation.ColorInt;
 import android.view.Gravity;
 
 import static android.util.TypedValue.COMPLEX_UNIT_DIP;
